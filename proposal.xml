@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proposal docName="first.docx"
+	headerValue="Compiler optimization using machine learning">
+	<frontPage>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			FUNCTIONAL OBJECT ORIENTED PROGRAMMING
+		</title>
+		<linebreak />
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			A Project Proposal
+		</title>
+		<linebreak />
+		<linebreak />
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			Presented to
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			Prof. Sharon Stranahan
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			Department of Computer Science
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			San José State University
+		</title>
+		<linebreak />
+		<linebreak />
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			In Partial Fulfillment
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			Of the Requirements for the Class
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			CS 200W
+		</title>
+		<linebreak />
+		<linebreak />
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			By
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			Sidharth Mishra
+		</title>
+		<title fontName="Times New Roman" fontSize="14" fontStyle=""
+			alignment="center">
+			October 2017
+		</title>
+	</frontPage>
+	<pagebreak />
+	<!-- table of contents -->
+	<!-- <toc /> -->
+	<!-- <title fontName="Times New Roman" fontSize="20" fontStyle="bold" alignment="center"> 
+		Title content This is the title of this document </title> -->
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 1. Problem Statement		</sectionTitle>
+		<sectionParagraph fontName="Times New Roman"
+			fontSize="12" fontStyle="" alignment="left"> The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days. The processing speed of computer hardware has been increasing
+			at a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days. The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days. The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days. The processing speed of computer hardware has been increasing
+			at a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.
+		</sectionParagraph>
+	</section>
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 2. Research Objective		</sectionTitle>
+		<sectionParagraph fontName="Times New Roman"
+			fontSize="12" fontStyle="" alignment="left"> The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days. The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.
+		</sectionParagraph>
+	</section>
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 3. History and Background		</sectionTitle>
+		<sectionParagraph fontName="Times New Roman"
+			fontSize="12" fontStyle="" alignment="left"> The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days. The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days. The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.
+		</sectionParagraph>
+	</section>
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 4. Technical Approach/Methodology
+		</sectionTitle>
+		<sectionParagraph fontName="Times New Roman"
+			fontSize="12" fontStyle="" alignment="left"> The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.
+		</sectionParagraph>
+	</section>
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 5. Requirements		</sectionTitle>
+		<sectionParagraph fontName="Times New Roman"
+			fontSize="12" fontStyle="" alignment="left"> The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.The processing speed of computer
+			hardware has been increasing at a tremendous speed these days.The
+			processing speed of computer hardware has been increasing at a
+			tremendous speed these days.The processing speed of computer
+			hardware
+			has been increasing at a tremendous speed these days.The processing
+			speed of computer hardware has been increasing at a tremendous speed
+			these days.The processing speed of computer hardware has been
+			increasing at a tremendous speed these days.The processing speed of
+			computer hardware has been increasing at a tremendous speed these
+			days.The processing speed of computer hardware has been increasing
+			at
+			a tremendous speed these days.
+		</sectionParagraph>
+	</section>
+	<section>
+		<sectionTitle fontName="Times New Roman" fontSize="14"
+			fontStyle="bold" alignment="center"> 6. Progression Timeline		</sectionTitle>
+		<sectionTable rows="4" cols="2"></sectionTable>
+	</section>
+</proposal>
