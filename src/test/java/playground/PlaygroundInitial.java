@@ -45,6 +45,7 @@ public class PlaygroundInitial {
      * @param docName
      *            The name of the word document
      */
+    @SuppressWarnings("unused")
     private static void createBlankWordDoc(String docName) {
         
         // document : this is the blank document
@@ -72,6 +73,7 @@ public class PlaygroundInitial {
      * @param text
      *            The text to be inserted into the paragraph
      */
+    @SuppressWarnings("unused")
     private static void createParagraph(String docName, String text) {
         
         try (XWPFDocument document = new XWPFDocument();
